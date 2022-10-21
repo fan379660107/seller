@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[6],{qSqu:function(e,a,t){"use strict";Object.defineProperty(a,"__esModule",{value:!0}),a.default=void 0;t("+n12");var n={namespace:"evaluate",state:{loading:!1,data:{list:[],pagination:{}}},effects:{}};a.default=n}}]);
